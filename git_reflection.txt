@@ -1,0 +1,11 @@
+GIT REFLECTION:
+
+1. Git is used for: Tracking changes in source code over time. It is a local version control tool that acts like a time machine, allowing you to see what files were modified, who changed them, and safely revert to older versions if something breaks.
+
+2. GitHub is used for: Hosting Git repositories online so developers can store their code in the cloud and collaborate with others. While Git handles tracking on your local machine, GitHub provides a platform for teams to share code, review work, and manage projects together.
+
+3. A commit means: A saved snapshot or "checkpoint" of your code changes. Every commit gets a unique ID and a log message describing what was altered, permanently logging that specific point in the project's history.
+
+4. A branch is used for: Isolating your work into an independent line of development. It lets you build new features or fix bugs in a safe sandbox environment without messing up the main, stable codebase.
+
+5. A Pull Request is used for: Proposing and reviewing code changes before they are combined. It notifies team members that you have finished working on a branch and would like them to look over, discuss, and test your code before it officially merges into the main project.
